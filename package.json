@@ -1,0 +1,20 @@
+{
+  "name": "ebac-mod24-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000b\u0000a\u0000c\u0000-\u0000m\u0000o\u0000d\u00002\u00004\u0000-\u0000a\u0000p\u0000i\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
